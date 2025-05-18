@@ -1,0 +1,20 @@
+body{
+    background-image: url('../imagem/43ad8128099eac6a1d886bea8cecc6ff_low.webp');
+	background-color: white;
+   
+}
+
+@media only screen and (max-width: 700px){
+    body{
+        background: url('../imagem/210af0d594f24a96828bb9fa8256f5-salao-barbearia-do-denir-j-p-biz-photo-8488936e043f4bc1ac7dfd8e027e4b-booksy.jpeg');
+        background-color: azure;
+        background-size: cover;
+    }
+    .form-mobile{
+       padding: 50px 0 ; 
+    }
+}
+
+.vertical-offset-100{
+    padding-top:200px;
+}
